@@ -37,17 +37,9 @@ $(document).ready(function () {
     colorConditions($("#four"), 16);
     colorConditions($("#five"), 17);
 
-
-
-
     $(".saveBtn").on("click", function () {
         var time = $(this).parent().attr("id");
         var value = $(this).siblings(".text-input").val();
         localStorage.setItem(time, JSON.stringify(value));
     });
-
-
-
-
-
 });
