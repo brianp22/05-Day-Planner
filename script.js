@@ -27,7 +27,7 @@ $(document).ready(function () {
             element.addClass("future")
         }
     }
-    colorConditions($("#nine"), 9);
+    colorConditions($("#nine"), 09);
     colorConditions($("#ten"), 10);
     colorConditions($("#eleven"), 11);
     colorConditions($("#twelve"), 12);
