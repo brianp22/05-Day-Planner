@@ -28,7 +28,7 @@ $(document).ready(function () {
         }
     }
     colorConditions($("#nine"), 09);
-    colorConditions($("#ten"), "10");
+    colorConditions($("#ten"), 10);
     colorConditions($("#eleven"), 11);
     colorConditions($("#twelve"), 12);
     colorConditions($("#one"), 13);
