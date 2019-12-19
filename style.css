@@ -5,11 +5,9 @@ body {
   }
   
   textarea{
-    background: transparent;
-    border: 1px solid black;
+    border-left: 1px solid black;
     resize: none;
     color: #000000;
-    border-left: 1px solid black;
     padding: 10px;
   }
   
@@ -21,7 +19,7 @@ body {
     border-bottom: 10px solid black;
   }
   
-  .description{
+  .text-input{
     white-space: pre-wrap;
   }
   
@@ -38,7 +36,7 @@ body {
   .hour {
     background-color: #ffffff;
     color: #000000;
-    border-top: 1px dashed #000000;
+    border-top: 1px solid #000000;
   }
   
   .saveBtn {
