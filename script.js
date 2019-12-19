@@ -22,7 +22,7 @@ $(document).ready(function () {
         if (new Date().getHours() > number){
             element.addClass("past")
         } else if (new Date().getHours() === number) {
-            element.addclass("current")
+            element.addClass("current")
         } else {
             element.addClass("future")
         }
