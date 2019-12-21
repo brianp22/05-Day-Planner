@@ -12,6 +12,6 @@ The day planner is also color formatted to indicate the current time of day. The
 
 # Screen Shot
 
-![alt test](dayplanner1.jpg)
+![alt test](dayplanner1.JPG)
 
 
