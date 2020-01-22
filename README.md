@@ -2,6 +2,8 @@
 
 This is a simple yet elegant application for keeping track of your daily objectives.
 
+https://brianp22.github.io/05-Day-Planner/
+
 # Features
 
 The current time and day will be displayed at the top automatically depending on your IP Address location.
